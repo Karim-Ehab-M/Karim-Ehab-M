@@ -1,6 +1,6 @@
 👋 Hi, I'm Karim Ehab — a Communication and Computer Engineering student at Shoubra Faculty of Engineering, Egypt.
 
-🎓 **DEPI – Microsoft ML Graduate**  
+🎓 **DEPI – Microsoft ML Graduate**.  
 💡 Passionate about **Data Science**, **Machine Learning**, **Deep Learning**, and **Computer Vision**.
 ☁️ Skilled in building and deploying ML solutions using **Python**, **Scikit-learn**, **TensorFlow**, **Keras**, and **Microsoft Azure**.
 
